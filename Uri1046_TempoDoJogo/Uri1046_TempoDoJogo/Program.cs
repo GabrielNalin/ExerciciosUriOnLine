@@ -1,0 +1,27 @@
+﻿using System;
+
+namespace Uri1046_TempoDoJogo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Enunciado: https://www.urionlinejudge.com.br/judge/pt/problems/view/1046 //
+
+            string[] valores = Console.ReadLine().Split(' ');
+            int horaInicial = int.Parse(valores[0]);
+            int horaFinal = int.Parse(valores[1]);
+
+            int duracao;
+            if (horaInicial < horaFinal)
+            {
+                duracao = horaFinal - horaInicial;
+            }
+            else
+            {
+                duracao = 24 - horaInicial + horaFinal;
+            }
+            Console.WriteLine("O JOGO DUROU " + duracao + " HORA(S)");
+        }
+    }
+}
