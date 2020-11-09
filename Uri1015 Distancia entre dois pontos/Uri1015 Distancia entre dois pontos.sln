@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uri1015 Distancia entre dois pontos", "Uri1015 Distancia entre dois pontos\Uri1015 Distancia entre dois pontos.csproj", "{77184620-44A3-4122-863C-D7C1AE1C3364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77184620-44A3-4122-863C-D7C1AE1C3364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77184620-44A3-4122-863C-D7C1AE1C3364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77184620-44A3-4122-863C-D7C1AE1C3364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77184620-44A3-4122-863C-D7C1AE1C3364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB1F6C0-3550-4B1B-88A1-F4FA95177EE2}
+	EndGlobalSection
+EndGlobal
