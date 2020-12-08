@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\bin\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.exe
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\bin\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.deps.json
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\bin\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\bin\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\bin\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.dll
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\bin\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.pdb
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.csprojAssemblyReference.cache
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.dll
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.pdb
+C:\Users\GN\source\repos\Uri1097_SequenciaIJ_3\Uri1097_SequenciaIJ_3\obj\Debug\netcoreapp3.1\Uri1097_SequenciaIJ_3.genruntimeconfig.cache

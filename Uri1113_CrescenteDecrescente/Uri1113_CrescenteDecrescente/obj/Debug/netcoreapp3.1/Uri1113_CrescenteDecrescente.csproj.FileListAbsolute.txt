@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\bin\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.exe
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\bin\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.deps.json
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\bin\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\bin\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\bin\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.dll
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\bin\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.pdb
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.csprojAssemblyReference.cache
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.dll
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.pdb
+C:\Users\GN\source\repos\Uri1113_CrescenteDecrescente\Uri1113_CrescenteDecrescente\obj\Debug\netcoreapp3.1\Uri1113_CrescenteDecrescente.genruntimeconfig.cache

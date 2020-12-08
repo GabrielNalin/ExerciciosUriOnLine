@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Uri1079_Medias_Ponderadas/1.0.0": {
+        "runtime": {
+          "Uri1079_Medias_Ponderadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri1079_Medias_Ponderadas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

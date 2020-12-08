@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uri1101_SequenciaNumerosSoma", "Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma.csproj", "{AFEF19C3-D397-4A92-84DC-F991D5ECE554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEF19C3-D397-4A92-84DC-F991D5ECE554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEF19C3-D397-4A92-84DC-F991D5ECE554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEF19C3-D397-4A92-84DC-F991D5ECE554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEF19C3-D397-4A92-84DC-F991D5ECE554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73102670-1016-4DC8-8321-C70DB9A1C56B}
+	EndGlobalSection
+EndGlobal

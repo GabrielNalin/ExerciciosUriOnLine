@@ -1,0 +1,12 @@
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\bin\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.exe
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\bin\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.deps.json
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\bin\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\bin\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\bin\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.dll
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\bin\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.pdb
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\obj\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\obj\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\obj\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\obj\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.dll
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\obj\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.pdb
+C:\Users\GN\source\repos\Uri1080_Maior_Posicao\Uri1080_Maior_Posicao\obj\Debug\netcoreapp3.1\Uri1080_Maior_Posicao.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\bin\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.exe
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\bin\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.deps.json
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\bin\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\bin\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\bin\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.dll
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\bin\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.pdb
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\obj\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\obj\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\obj\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\obj\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.dll
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\obj\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.pdb
+C:\Users\GN\source\repos\Uri1079_Medias_Ponderadas\Uri1079_Medias_Ponderadas\obj\Debug\netcoreapp3.1\Uri1079_Medias_Ponderadas.genruntimeconfig.cache

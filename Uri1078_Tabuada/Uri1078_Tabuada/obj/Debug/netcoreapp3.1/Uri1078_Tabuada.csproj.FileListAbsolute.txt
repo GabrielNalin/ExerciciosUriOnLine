@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\bin\Debug\netcoreapp3.1\Uri1078_Tabuada.exe
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\bin\Debug\netcoreapp3.1\Uri1078_Tabuada.deps.json
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\bin\Debug\netcoreapp3.1\Uri1078_Tabuada.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\bin\Debug\netcoreapp3.1\Uri1078_Tabuada.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\bin\Debug\netcoreapp3.1\Uri1078_Tabuada.dll
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\bin\Debug\netcoreapp3.1\Uri1078_Tabuada.pdb
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.csprojAssemblyReference.cache
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.dll
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.pdb
+C:\Users\GN\source\repos\Uri1078_Tabuada\Uri1078_Tabuada\obj\Debug\netcoreapp3.1\Uri1078_Tabuada.genruntimeconfig.cache

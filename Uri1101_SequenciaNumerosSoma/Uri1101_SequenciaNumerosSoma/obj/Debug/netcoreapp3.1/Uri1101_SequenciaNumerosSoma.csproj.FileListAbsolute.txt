@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\bin\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.exe
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\bin\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.deps.json
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\bin\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\bin\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\bin\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.dll
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\bin\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.pdb
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.dll
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.pdb
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.genruntimeconfig.cache
+C:\Users\GN\source\repos\Uri1101_SequenciaNumerosSoma\Uri1101_SequenciaNumerosSoma\obj\Debug\netcoreapp3.1\Uri1101_SequenciaNumerosSoma.csprojAssemblyReference.cache

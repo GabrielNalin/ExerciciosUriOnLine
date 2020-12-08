@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\bin\Debug\netcoreapp3.1\Uri1115_Quadrante_while.exe
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\bin\Debug\netcoreapp3.1\Uri1115_Quadrante_while.deps.json
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\bin\Debug\netcoreapp3.1\Uri1115_Quadrante_while.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\bin\Debug\netcoreapp3.1\Uri1115_Quadrante_while.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\bin\Debug\netcoreapp3.1\Uri1115_Quadrante_while.dll
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\bin\Debug\netcoreapp3.1\Uri1115_Quadrante_while.pdb
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.csprojAssemblyReference.cache
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.dll
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.pdb
+C:\Users\GN\source\repos\Uri1115_Quadrante_while\Uri1115_Quadrante_while\obj\Debug\netcoreapp3.1\Uri1115_Quadrante_while.genruntimeconfig.cache

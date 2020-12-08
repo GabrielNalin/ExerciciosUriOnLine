@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\bin\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.exe
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\bin\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.deps.json
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\bin\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\bin\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\bin\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.dll
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\bin\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.pdb
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.csprojAssemblyReference.cache
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.dll
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.pdb
+C:\Users\GN\source\repos\Uri1099_SomaImparesConsecutivos\Uri1099_SomaImparesConsecutivos\obj\Debug\netcoreapp3.1\Uri1099_SomaImparesConsecutivos.genruntimeconfig.cache

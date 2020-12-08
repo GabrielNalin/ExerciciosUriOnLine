@@ -1,0 +1,13 @@
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\bin\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.exe
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\bin\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.deps.json
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\bin\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.runtimeconfig.json
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\bin\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.runtimeconfig.dev.json
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\bin\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.dll
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\bin\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.pdb
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.csprojAssemblyReference.cache
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.AssemblyInfoInputs.cache
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.AssemblyInfo.cs
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.dll
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.pdb
+C:\Users\GN\source\repos\Uri1094_ExperienciaCobaias\Uri1094_ExperienciaCobaias\obj\Debug\netcoreapp3.1\Uri1094_ExperienciaCobaias.genruntimeconfig.cache
